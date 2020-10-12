@@ -30,7 +30,7 @@
 
 
  }
- .text:first-letter {
+ #big:first-letter {
     font-size: 4em; 
     padding: 5px; 
     margin-right: 5px;
